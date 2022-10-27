@@ -1,0 +1,6 @@
+Changemymac
+
+Change your mac to a random address, requires the `ip` command to use
+
+Better than macchanger for this purpose, gnome changes your mac to the hw address so
+make sure to use nmcli(or similar) to connect to a network when using this tool.
